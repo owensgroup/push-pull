@@ -16,7 +16,7 @@ experimental evidence that with these optimizations, a DOBFS expressed in a line
 competitive performance with state-of-the-art graph frameworks on the GPU and on a multi-threaded CPU, achieving 101 GTEPS 
 on a Scale 22 RMAT graph.
 
-![](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png) [pushpull-icpp18-final.pdf](https://github.com/owensgroup/GraphBLAS/raw/master/pushpull-icpp18-final.pdf)
+![](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png) [pushpull-icpp18-final.pdf](https://github.com/owensgroup/push-pull/raw/master/pushpull-icpp2018-final.pdf)
 
 
 ## Getting Started
@@ -160,7 +160,7 @@ Super large - 172 graphs (4000MB)
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
